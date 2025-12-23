@@ -15,9 +15,7 @@ I'm a Computer Engineering student interested in **Cybersecurity**, **Web Applic
   Windows desktop app that simulates how common malware families behave on an endpoint (ransomware, infostealers, keyloggers, fileless attacks, wipers) in a safe, in-memory way, with behaviour mapped to MITRE ATT&CK techniques for learning and practice.  
   Repo: [MalwareSandboxSimulator](https://github.com/mhelail/MalwareSandboxSimulator)
 
-- **HexTriage (AI-Powered Malware Triage)** – Python, YARA, PE Analysis, LightGBM (EMBER2024)
-  
-  Static-only malware triage for PE files: extracts PE metadata/features, runs YARA + weighted heuristics, and adds ML risk scoring. Generates clean JSON/HTML reports with clear evidence and dual-use (LOLBin) awareness.
+- **HexTriage (AI-Powered Malware Triage)** – Python, YARA, PE Analysis, LightGBM (EMBER2024)                                                                                                                                                                                                                                                               Static-only malware triage for PE files: extracts PE metadata/features, runs YARA + weighted heuristics, and adds ML risk scoring. Generates clean JSON/HTML reports with clear evidence and dual-use (LOLBin) awareness.
   Repo: [HexTriage](https://github.com/mhelail/HexTriage)
 
 -  **Real-Time Communication Platform** – Node.js, Socket.IO, WebRTC, MongoDB  
