@@ -16,7 +16,7 @@ I'm a Computer Engineering student interested in **Cybersecurity**, **Web Applic
   Repo: [MalwareSandboxSimulator](https://github.com/mhelail/MalwareSandboxSimulator)
 
 - **HexTriage (AI-Powered Malware Triage)** – Python, YARA, PE Analysis, LightGBM (EMBER2024)
-    Static-only malware triage for PE files: extracts PE metadata/features, runs YARA + weighted heuristics, and adds ML risk scoring. Generates clean JSON/HTML reports with clear evidence and dual-use (LOLBin) awareness.
+  Static-only malware triage for PE files: extracts PE metadata/features, runs YARA + weighted heuristics, and adds ML risk scoring. Generates clean JSON/HTML reports with clear evidence and dual-use (LOLBin) awareness.
   Repo: [HexTriage](https://github.com/mhelail/HexTriage)
 
 -  **Real-Time Communication Platform** – Node.js, Socket.IO, WebRTC, MongoDB  
