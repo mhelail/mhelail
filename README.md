@@ -1,8 +1,9 @@
 # Hi, I'm Mohamed 👋
 
-I'm a Computer Engineering student interested in **Cybersecurity**, **Web Application Security** and **Deep Learning**.
+I break enterprise infrastructure for a living. Between engagements, I'm building something that will change how offensive security scales.
+**Cybersecurity Consultant** & **HackerOne bug bounty hunter**
 
-### What I’ve been working on
+### Things I've built
 
 -  **Smart Deepfake Detection System** – Python, CNN, TensorFlow  
   TÜBİTAK–Supported Deepfake Detection Graduation Project focused on detecting manipulated facial videos using deep learning and image processing.
@@ -19,23 +20,12 @@ I'm a Computer Engineering student interested in **Cybersecurity**, **Web Applic
  Static-only malware triage for PE files: extracts PE metadata/features, runs YARA + weighted heuristics, and adds ML risk scoring. Generates clean JSON/HTML reports with clear evidence and dual-use (LOLBin) awareness.
   Repo: [HexTriage](https://github.com/mhelail/HexTriage)
 
--  **Real-Time Communication Platform** – Node.js, Socket.IO, WebRTC, MongoDB  
-  Real-time chat and simple voice calls with JWT-based authentication.  
-  Repo: [real-time-communication-platform](https://github.com/mhelail/real-time-communication-platform)
-
--  **Employee Attendance & Activity System** – C#, WinForms, MySQL  
-  Desktop app to manage employees, attendance status (Present / Absent / Late) and simple activity notes.  
-  Repo: [EmployeeAttendanceSystem](https://github.com/mhelail/EmployeeAttendanceSystem)
 
 
 ### Technologies
-
-- **Languages:** Python, C#, Java, JavaScript, C++  
-- **Backend:** Node.js, Express, REST APIs  
-- **Frontend:** HTML, CSS, basic JavaScript  
-- **Databases:** MySQL, MongoDB, SQL  
-- **Cybersecurity tools:** Burp Suite, OWASP ZAP, Wireshark
+- **Offensive:** Burp Suite · Metasploit · Impacket · BloodHound · CrackMapExec · Netexec  
+- **Languages:** Python, C#, Java, JavaScript, C++
 - **AI & Deep Learning:** CNNs, Transfer Learning, TensorFlow, Image Processing 
-- **Other:** Git, Linux (Kali, Ubuntu), Windows
+- **Platform:** Git, Linux (Kali, Ubuntu), Windows
 
-I use GitHub to keep my university work and personal projects in one place while I continue learning and improving.
+Not everything I build ends up here. Most of the interesting stuff doesn't.
